@@ -1,0 +1,17 @@
+---
+title: getColumnDimension
+---
+//[multiplatform-core](../../../index.html)/[net.graphmasters.multiplatform.core.math.linear](../index.html)/[Array2DRowRealMatrix](index.html)/[getColumnDimension](get-column-dimension.html)
+
+
+
+# getColumnDimension
+
+
+
+[common]\
+open override fun [getColumnDimension](get-column-dimension.html)(): [Int](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)
+
+
+
+
